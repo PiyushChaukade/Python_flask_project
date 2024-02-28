@@ -15,8 +15,10 @@
   ![Screenshot (652)](https://github.com/PiyushChaukade/Python_flask_project/assets/93372962/7421f025-88ee-4b06-add1-6691f11bfebd)
 
 7.if user want to update particular Data we use PUT operation here then we need to type id or copy paste it and enter.
+
  before update:
   ![Screenshot (652)](https://github.com/PiyushChaukade/Python_flask_project/assets/93372962/7d24527b-d0fc-4d45-812c-d79c9f6b4074)
+
 After Update:
   ![Screenshot (653)](https://github.com/PiyushChaukade/Python_flask_project/assets/93372962/e1d4e358-4f98-44c2-bf02-220284e31790)
   ![Screenshot (654)](https://github.com/PiyushChaukade/Python_flask_project/assets/93372962/28ed6708-48e4-4653-94f9-66b1e121376f)
